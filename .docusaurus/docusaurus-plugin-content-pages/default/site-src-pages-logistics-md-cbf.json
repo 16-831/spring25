@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/spring25/logistics",
+  "source": "@site/src/pages/logistics.md",
+  "title": "Course logistics",
+  "description": "Class Time and Location",
+  "frontMatter": {
+    "title": "Course logistics"
+  },
+  "unlisted": false
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/spring25/projects",
+  "source": "@site/src/pages/projects.md",
+  "title": "Project gallery",
+  "description": "Coming soon!",
+  "frontMatter": {
+    "title": "Project gallery"
+  },
+  "unlisted": false
+}

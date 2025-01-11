@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/spring25/docs",
+          "tagsPath": "/spring25/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "/home/keshaw/robot-learning-websites/spring25/docs",
+          "contentPathLocalized": "/home/keshaw/robot-learning-websites/spring25/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/spring25/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/spring25/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/spring25/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/spring25/lectures",
+        "source": "@site/src/pages/lectures.md",
+        "title": "Lectures",
+        "description": "Course Schedule",
+        "frontMatter": {
+          "title": "Lectures"
+        },
+        "unlisted": false
+      },
+      {
+        "type": "mdx",
+        "permalink": "/spring25/logistics",
+        "source": "@site/src/pages/logistics.md",
+        "title": "Course logistics",
+        "description": "Class Time and Location",
+        "frontMatter": {
+          "title": "Course logistics"
+        },
+        "unlisted": false
+      },
+      {
+        "type": "mdx",
+        "permalink": "/spring25/previous",
+        "source": "@site/src/pages/previous.md",
+        "title": "Previous Offerings",
+        "description": "Spring 2024",
+        "frontMatter": {
+          "title": "Previous Offerings"
+        },
+        "unlisted": false
+      },
+      {
+        "type": "mdx",
+        "permalink": "/spring25/projects",
+        "source": "@site/src/pages/projects.md",
+        "title": "Project gallery",
+        "description": "Coming soon!",
+        "frontMatter": {
+          "title": "Project gallery"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

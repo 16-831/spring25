@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/spring25/previous",
+  "source": "@site/src/pages/previous.md",
+  "title": "Previous Offerings",
+  "description": "Spring 2024",
+  "frontMatter": {
+    "title": "Previous Offerings"
+  },
+  "unlisted": false
+}

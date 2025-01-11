@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/spring25/lectures",
+  "source": "@site/src/pages/lectures.md",
+  "title": "Lectures",
+  "description": "Course Schedule",
+  "frontMatter": {
+    "title": "Lectures"
+  },
+  "unlisted": false
+}

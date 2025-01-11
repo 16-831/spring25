@@ -16,12 +16,12 @@ const config = {
   url: 'https://16-831.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/fall24',
+  baseUrl: '/spring25',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '16-831', // Usually your GitHub org/user name.
-  projectName: 'fall24', // Usually your repo name.
+  projectName: 'spring25', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
