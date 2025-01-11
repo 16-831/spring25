@@ -1,97 +1,54 @@
 {
-  "/spring25/__docusaurus/debug-d6c": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---spring-25-docusaurus-debug-3-ba-97b"
-    }
-  },
-  "/spring25/__docusaurus/debug/config-d51": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---spring-25-docusaurus-debug-3-ba-97b"
-    }
-  },
-  "/spring25/__docusaurus/debug/content-1d0": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---spring-25-docusaurus-debug-3-ba-97b"
-    },
-    "allContent": "allContent---spring-25-docusaurus-debug-content-246-5ed"
-  },
-  "/spring25/__docusaurus/debug/globalData-b80": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---spring-25-docusaurus-debug-3-ba-97b"
-    }
-  },
-  "/spring25/__docusaurus/debug/metadata-1f1": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---spring-25-docusaurus-debug-3-ba-97b"
-    }
-  },
-  "/spring25/__docusaurus/debug/registry-b22": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---spring-25-docusaurus-debug-3-ba-97b"
-    }
-  },
-  "/spring25/__docusaurus/debug/routes-1e6": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---spring-25-docusaurus-debug-3-ba-97b"
-    }
-  },
   "/spring25/lectures-31c": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---spring-25-lectures-8-a-8-87d"
+      "plugin": "8a87b24b"
     },
-    "content": "content---spring-25-lectures-44-a-c64"
+    "content": "44a344b3"
   },
   "/spring25/logistics-a5d": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---spring-25-lectures-8-a-8-87d"
+      "plugin": "8a87b24b"
     },
-    "content": "content---spring-25-logisticscbf-dea"
+    "content": "cbfbd713"
   },
   "/spring25/previous-d11": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---spring-25-lectures-8-a-8-87d"
+      "plugin": "8a87b24b"
     },
-    "content": "content---spring-25-previous-1-cb-7e9"
+    "content": "1cbd5031"
   },
   "/spring25/projects-34f": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---spring-25-lectures-8-a-8-87d"
+      "plugin": "8a87b24b"
     },
-    "content": "content---spring-25-projectse-00-7e1"
+    "content": "e007a4f0"
   },
   "/spring25/docs-e23": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---spring-25-docs-4-be-573"
+      "plugin": "4bee1723"
     }
   },
   "/spring25/docs-4d5": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---spring-25-docs-935-f46"
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
   "/spring25/docs-d7e": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/spring25/docs/intro-31c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---spring-25-docs-intro-0-e-3-c64"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/spring25/-b4b": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---spring-25-lectures-8-a-8-87d"
+      "plugin": "8a87b24b"
     },
-    "config": "config---spring-25-5-e-9-56d"
+    "config": "5e9f5e1a"
   }
 }
