@@ -77,10 +77,10 @@ export default function HomepageFeatures() {
         <div className="row">
           <div className="col col--2">
             <div className="text--center">
-              <h3><a href="https://tairanhe.com/">Tairan He</a></h3>
+              <h3><a href="https://haochenz11.github.io/">Haochen Zhang</a></h3>
             </div>
             <div className="text--center">
-              <img className={styles.featureImage} src="img/staff_pictures/tairan.jpg" alt=""/>
+              <img className={styles.featureImage} src="img/staff_pictures/haochen.jpg" alt=""/>
             </div>
           </div>
 
@@ -95,28 +95,19 @@ export default function HomepageFeatures() {
 
           <div className="col col--2">
             <div className="text--center">
-              <h3><a href="https://yufeiwang63.github.io/">Yufei Wang</a></h3>
+              <h3><a href="https://jiashunwang.github.io/">Jiashun Wang</a></h3>
             </div>
             <div className="text--center">
-              <img className={styles.featureImage} src="img/staff_pictures/yufei.jpg" alt=""/>
-            </div>
-          </div>
-
-          <div className="col col--2">
-            <div className="text--center">
-              <h3><a href="https://yilin-wu98.github.io/">Yilin Wu</a></h3>
-            </div>
-            <div className="text--center">
-              <img className={styles.featureImage} src="img/staff_pictures/yilin.jpg" alt=""/>
+              <img className={styles.featureImage} src="img/staff_pictures/jiashun.jpg" alt=""/>
             </div>
           </div>
 
           <div className="col col--2">
             <div className="text--center">
-              <h3><a href="https://etaoxing.com/">Eliot Xing</a></h3>
+              <h3><a href="https://kennyshaw.net/">Kenneth Shaw</a></h3>
             </div>
             <div className="text--center">
-              <img className={styles.featureImage} src="img/staff_pictures/eliot.png" alt=""/>
+              <img className={styles.featureImage} src="img/staff_pictures/kenny.jfif" alt=""/>
             </div>
           </div>
         </div>
