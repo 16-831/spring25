@@ -16,7 +16,10 @@ title: Course logistics
 |         |  Office Hours    |
 | ------------- | :-----------: |
 | Guanya Shi | Wed 11:00 - 11:45 AM, NSH 3209 |
-| TBA | TBA |
+| Sam Triest | Tue 2 PM, Location TBA |
+| Haochen Zhang | Thu 2 PM, NSH 1505 |
+| Kenny Shaw | Fri 10 AM, TCS 457 |
+| Jiashun Wang | Wed 4:15 PM, Smith 214 |
 <!-- | Guanya Shi    | Tue 11:00 - 11:45 AM, NSH 3209 | -->
 <!-- | Yilin Wu      | Tue 2:00 - 2:45 PM, NSH 3104 |
 | Yufei Wang    | Wed 3:45 - 4:30 PM, NSH 4126 |
