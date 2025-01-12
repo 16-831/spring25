@@ -38,3 +38,4 @@ Lecture slides are posted here and on [[Piazza](https://piazza.com/cmu/fall2024/
 | 04/16| Lecture 25: Course Summary| || ⚫ Project  |
 | 04/21| Lecture 26: Student Project Presentations  | || ⚫ Project  |
 | 04/23| Lecture 27: Student Project Presentations  | || ⚫ Project  |
+| 05/03| | | Final Report Due | |
