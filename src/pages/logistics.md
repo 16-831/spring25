@@ -15,7 +15,8 @@ title: Course logistics
 
 |         |  Office Hours    |
 | ------------- | :-----------: |
-|TBA|TBA|
+| Guanya Shi | Wed 11:00 - 11:45 AM, NSH 3209 |
+| TBA | TBA |
 <!-- | Guanya Shi    | Tue 11:00 - 11:45 AM, NSH 3209 | -->
 <!-- | Yilin Wu      | Tue 2:00 - 2:45 PM, NSH 3104 |
 | Yufei Wang    | Wed 3:45 - 4:30 PM, NSH 4126 |
