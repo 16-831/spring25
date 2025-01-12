@@ -86,10 +86,10 @@ export default function HomepageFeatures() {
 
           <div className="col col--2">
             <div className="text--center">
-              <h3><a href="https://jaraxxus-me.github.io/">Bowen Li</a></h3>
+              <h3><a href="https://striest.github.io/">Sam Triest</a></h3>
             </div>
             <div className="text--center">
-              <img className={styles.featureImage} src="img/staff_pictures/bowen.jpg" alt=""/>
+              <img className={styles.featureImage} src="img/staff_pictures/sam.jpg" alt=""/>
             </div>
           </div>
 
