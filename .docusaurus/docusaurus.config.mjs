@@ -51,7 +51,7 @@ export default {
           "position": "left"
         },
         {
-          "to": "https://piazza.com/class/lz80ucdscem787",
+          "to": "https://piazza.com/cmu/spring2025/16831",
           "label": "Piazza",
           "position": "left"
         },
