@@ -11,7 +11,7 @@ Lecture slides are posted here and on [[Piazza](https://piazza.com/cmu/spring202
 | 01/13| Lecture 1: Course Introduction: What is Robot Learning? [[slides](https://drive.google.com/file/d/1tWW_2BlcrEtubmsVy81qmqSb3bI5GM_x/view?usp=sharing)] | [[Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289)]|| 🔴 Introduction   |
 | 01/15| Lecture 2: Robot Learning: An Overview [[slides](https://drive.google.com/file/d/1YpTfI_9rp5R6k9--T5OpYZ5TEUUWatet/view?usp=sharing)]| [[RL Textbook, Ch 1](http://incompleteideas.net/book/RLbook2018.pdf)]  || 🔴 Introduction   |
 | 01/20| MLK Jr Day  | ||  |
-| 01/22| Lecture 3: ML/DL Refresher Part 1 | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)]| HW1 Out   | 🟠 ML/DL Refresher|
+| 01/22| Lecture 3: ML/DL Refresher Part 1 [[slides](https://drive.google.com/file/d/1zwhRsu1ZUX5Bk_I9H4Yn4SbfMEmG2SNM/view?usp=sharing)] | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)]| HW1 Out   | 🟠 ML/DL Refresher|
 | 01/27| Lecture 4: ML/DL Refresher Part 2 | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)]|| 🟠 ML/DL Refresher|
 | 01/29| Lecture 5: MDP Basics and Imitation Learning Part 1| [[ICML Tutorial](https://sites.google.com/view/icml2018-imitation-learning/)][[An Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf)] || 🟣 Imitation Learning   |
 | 02/03| Lecture 6: Imitation Learning Part 2   | [[DAgger](https://arxiv.org/pdf/1011.0686.pdf)][[GAIL](https://arxiv.org/pdf/1606.03476.pdf)][[Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)][[pi-zero](https://www.physicalintelligence.company/blog/pi0)] || 🟣 Imitation Learning   |
