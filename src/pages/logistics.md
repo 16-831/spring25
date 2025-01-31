@@ -18,7 +18,7 @@ title: Course logistics
 | Guanya Shi | Wed 11:00 - 11:45 AM, NSH 3209 |
 | Sam Triest | Tue 2 PM, NSH A507 |
 | Haochen Zhang | Thu 2 PM, NSH 1505 |
-| Kenny Shaw | Fri 10 AM, TCS 457 |
+| Kenny Shaw | Fri 10 AM, TCS 458 |
 | Jiashun Wang | Wed 4:15 PM, Smith 214 |
 
 <!-- ### Class Forum

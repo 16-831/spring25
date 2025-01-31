@@ -60,7 +60,7 @@ const config = {
         items: [
           {to: '/logistics', label: 'Logistics', position: 'left'},
           {to: '/lectures', label: 'Lectures', position: 'left'},
-          {to: 'https://piazza.com/class/lz80ucdscem787', label: 'Piazza', position: 'left'},
+          {to: 'https://piazza.com/class/m5nhs5q7kaw770', label: 'Piazza', position: 'left'},
           // {to: '/projects', label: 'Project Gallery', position: 'left'},
           {to: '/previous', label: 'Previous Offerings', position: 'left'},
         ],
