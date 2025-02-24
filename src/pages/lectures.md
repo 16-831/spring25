@@ -20,7 +20,7 @@ Lecture slides are posted here and on [[Piazza](https://piazza.com/cmu/spring202
 | 02/12| Lecture 9: Policy Gradient Methods [[slides](https://drive.google.com/file/d/1qn7LOgP-4Hk36CJTmF8NLj2ecGMnTIWD/view?usp=sharing)] | [[RL Textbook, Ch 13](http://incompleteideas.net/book/RLbook2018.pdf)][[Intro to Policy Gradient](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)] || 🟢 Model-Free RL  |
 | 02/17| Lecture 10: Actor-Critic Methods [[slides](https://drive.google.com/file/d/1ultb79yRBJugUDiq2PGQx0dFZtrhvV6l/view?usp=sharing)] | [[RL Textbook, Ch 13](http://incompleteideas.net/book/RLbook2018.pdf)]|| 🟢 Model-Free RL  |
 | 02/19| Lecture 11: Advanced RL Algorithms Part 1 [[slides](https://drive.google.com/file/d/1bmW4waaMQ_8SJH-Df8QE0jCiDEYLBuNF/view?usp=sharing)] | [[PPO](https://arxiv.org/pdf/1707.06347)][[TRPO](https://arxiv.org/pdf/1502.05477.pdf)][[DDPG](https://arxiv.org/pdf/1509.02971.pdf)][[SAC](https://arxiv.org/abs/1801.01290)] || 🟢 Model-Free RL  |
-| 02/24| Lecture 12: Advanced RL Algorithms Part 2| | HW2 Due; HW3 Out| 🟢 Model-Free RL  |
+| 02/24| Lecture 12: Advanced RL Algorithms Part 2 [[slides](https://drive.google.com/file/d/1bmW4waaMQ_8SJH-Df8QE0jCiDEYLBuNF/view?usp=sharing)] | | HW2 Due; HW3 Out| 🟢 Model-Free RL  |
 | 02/26| Lecture 13: Model-Based Control Basics| [[Feedback Systems Textbook](https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers)] || 🔵 Model-Based RL|
 | 03/03| Spring Break| |Project Proposal Due | ⛱️|
 | 03/05| Spring Break| || ⛱️|
