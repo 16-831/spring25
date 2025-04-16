@@ -35,7 +35,7 @@ Lecture slides are posted here and on [[Piazza](https://piazza.com/cmu/spring202
 | 04/07| Lecture 22: Robot Simulation and Sim2Real [[slides](https://drive.google.com/file/d/1MXXObK-yJ9YCUMP1JAsLHjKhcFk3Obaa/view?usp=sharing)] | [[Genesis](https://genesis-embodied-ai.github.io/)][[Domain Randomization](https://arxiv.org/abs/1703.06907)][[Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4)] || 🟤 Specialized Topics   |
 | 04/09| Lecture 23: Safe RL and Safe Robot Learning [[slides](https://drive.google.com/file/d/18pKlrjr9mcKkABjrIZn0HigvAmSKEA9D/view?usp=sharing)] | [[Safe Robot Learning Survey](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-020211)][[Data-Driven Safety Filters](https://ieeexplore.ieee.org/abstract/document/10266799)] || 🟤 Specialized Topics   |
 | 04/14| Lecture 24: Multi-Task/Adaptable/Transferable Robot Learning [[slides](https://drive.google.com/file/d/1LrypAxIuf_aXrRDQSB1t2CaZ4nL7s8hy/view?usp=sharing)] | [[Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf)][[RMA](https://arxiv.org/abs/2107.04034)][[Neural-Fly](https://arxiv.org/abs/2205.06908)] || 🟤 Specialized Topics |
-| 04/16| Lecture 25: Course Summary| || ⚫ Project  |
+| 04/16| Lecture 25: Course Summary [[slides](https://drive.google.com/file/d/1KOB-QRPM3PQWFFOw7mjPdpqvkwKZJfio/view?usp=sharing)] | || ⚫ Project  |
 | 04/21| Lecture 26: Student Project Presentations  | || ⚫ Project  |
 | 04/23| Lecture 27: Student Project Presentations  | || ⚫ Project  |
 | 05/03| | | Final Report Due | |
